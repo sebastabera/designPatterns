@@ -1,6 +1,7 @@
-package prototype.documentacion;
+package singleton;
 
 import java.util.ArrayList;
+import prototype.documentacion.Documentacion;
 import prototype.documento.Documento;
 
 public class DocumentacionEnBlanco extends Documentacion {

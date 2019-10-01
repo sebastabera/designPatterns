@@ -3,6 +3,7 @@ package prototype.documentacion;
 import java.util.ArrayList;
 import java.util.List;
 import prototype.documento.Documento;
+import singleton.DocumentacionEnBlanco;
 
 public class DocumentacionCliente extends Documentacion {
     

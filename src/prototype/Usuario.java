@@ -1,10 +1,10 @@
 package prototype;
 
 import prototype.documentacion.DocumentacionCliente;
-import prototype.documentacion.DocumentacionEnBlanco;
 import prototype.documento.CertificadoCesion;
 import prototype.documento.OrdenDePedido;
 import prototype.documento.SolicitudMatriculacion;
+import singleton.DocumentacionEnBlanco;
 
 public class Usuario {
 
