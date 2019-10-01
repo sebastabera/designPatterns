@@ -14,6 +14,7 @@ public class TestComercial {
 
     public static void visualiza() {
         Comercial elComercial = Comercial.getInstance();
+        elComercial.visualiza();
     }
 
 }
